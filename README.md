@@ -20,9 +20,9 @@ Section 1:Define Problem Statement and perform Exploratory Data Analysis
 
 Section 2: Hypothesis Testing
 
-    2- Sample T-Test to check if Working Day has an effect on the number of electric cycles rented 
+    1) 2- Sample T-Test to check if Working Day has an effect on the number of electric cycles rented 
 
-    ANNOVA to check if No. of cycles rented is similar or different in different 1. weather 2. season 
+    2) ANNOVA to check if No. of cycles rented is similar or different in different 1. weather 2. season 
 
-    Chi-square test to check if Weather is dependent on the season
+    3) Chi-square test to check if Weather is dependent on the season
 
